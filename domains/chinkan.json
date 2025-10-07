@@ -4,6 +4,7 @@
         "email": "chinkan@gmail.com"
     },
     "records": {
-        "CNAME": "chinkan.github.io"
+        "CNAME": "chinkan.github.io",
+        "TXT": "b4d167d03c3e7351aee060d436b234"
     }
 }
